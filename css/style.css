@@ -498,8 +498,8 @@ body.is-home main.content{
 
 @media (max-width: 980px){
   .heroSection{
-    min-height: 95vh;
-    height: 95vh;
+    min-height: 85vh;
+    height: 85vh;
   }
 
   .hero{
