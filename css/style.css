@@ -394,7 +394,7 @@ body.is-home main.content{
 .heroSection{
   position: relative;
   min-height: 590px;
-  height: 85vh;
+  height: 78vh;
   overflow: hidden;
   padding-top: var(--nav-h);
 }
