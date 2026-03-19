@@ -466,7 +466,7 @@ body.is-home main.content{
 }
 
 .heroConcept__title{
-  margin: 10px 0 0;
+  margin: 25px 0 0;
   font-family: var(--font-serif);
   font-weight: 400;
   font-size: clamp(64px, 8vw, 120px);
